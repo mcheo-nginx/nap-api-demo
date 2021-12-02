@@ -26,7 +26,7 @@ Assuming you already have NGINX App Protect built as docker container in your ma
 
 2. Step up the stacks
 ```
-docker-compose -f docker-compose.yaml up -d
+docker-compose -f docker-compose.yml up -d
 ```
 
 The stack consists of 3 containers:
